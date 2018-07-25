@@ -1,6 +1,6 @@
-# ReactJS Twich
+# ReactJS Twitch
 
-This project was created with demonstration purpose.
+A simple recreation of TwitchTV with basic functionalities using ReactJS and Twitch public API. 
 
 ## Install dependencies: 
 
